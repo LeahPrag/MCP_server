@@ -2,6 +2,13 @@
 
 A lightweight **MCP server** that builds a **Python call graph** for a project and lets you query, visualize, and summarize architecture — directly from **Claude Desktop** via tools.
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![MCP](https://img.shields.io/badge/MCP-Claude%20Desktop%20Tools-green)
+![Call%20Graph](https://img.shields.io/badge/Static%20Analysis-Call%20Graph-purple)
+![Gemini](https://img.shields.io/badge/AI-Gemini%202.5-orange)
+![Output](https://img.shields.io/badge/Export-Mermaid%20%7C%20DOT-teal)
+
+
 It supports:
 - Building a project graph (function-level)
 - Querying callers/callees/dependencies/paths
@@ -293,5 +300,4 @@ GEMINI_API_KEY=...
 
 ---
 
-## License
-Educational project / Bootcamp assignment.
+
